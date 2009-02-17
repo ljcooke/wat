@@ -1,0 +1,18 @@
+
+ -- wat --
+
+    Originally written for a college assignment in 2007.
+    Until today, it has been ignored since I submitted it.
+
+    Here is, essentially, the final program I submitted,
+    but with some very minor changes:
+
+        - the name is now 'wat' (originally it was just 'markov')
+        - code formatting has been changed slightly
+          (mostly just changing tabs to spaces -- I've become
+           one of THOSE people)
+        - license information has been added
+
+    I'm pushing it to GitHub in the hopes that I'll start
+    working on it again some time. First I need to relearn C++...
+
